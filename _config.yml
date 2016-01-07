@@ -1,0 +1,28 @@
+name: MN Foodie James
+favicon: null
+layout_spectrum: 0.6284232537727803
+typography_spectrum: 0.2751706668641418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.20575774158351123
+  lightness: 0.7375587371643633
+  saturation: 0.287108285818249
+  rhythmicContrast: 0.2764357964042574
+purpose: []
