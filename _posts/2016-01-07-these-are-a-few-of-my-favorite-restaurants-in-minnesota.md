@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T02:21:27.391Z'
-dateModified: '2016-01-18T03:10:02.565Z'
+datePublished: '2016-01-29T02:25:56.866Z'
+dateModified: '2016-01-29T02:25:54.734Z'
 title: These are a few of my favorite restaurants in Minnesota
 author: []
 sourcePath: _posts/2016-01-07-these-are-a-few-of-my-favorite-restaurants-in-minnesota.md
@@ -24,10 +24,11 @@ _type: Article
 ---
 # **These are a few of my favorite restaurants in Minnesota**
 
-[http://birchwoodcafe.com/][0]
+[birchwoodcafe][0]
 
-[http://www.travailkitchen.com/\#home][0]
+[http://www.travailkitchen.com/\#home][1]
 
-[http://www.restaurantalma.com/][0]
+[http://www.restaurantalma.com/][1]
 
-[0]: null
+[0]: www.birchwoodcafe.com
+[1]: null
