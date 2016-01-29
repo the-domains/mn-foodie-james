@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T02:27:15.558Z'
+datePublished: '2016-01-29T02:27:15.570Z'
 dateModified: '2016-01-29T02:27:10.210Z'
 title: These are a few of my favorite restaurants in Minnesota
 author: []
